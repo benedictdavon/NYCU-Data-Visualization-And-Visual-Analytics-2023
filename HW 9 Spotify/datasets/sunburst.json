@@ -1,0 +1,204 @@
+{
+  "name": "musicGenres",
+  "children": [
+    {
+      "name": "Rock & Alternative",
+      "children": [
+        {"name": "alt-rock", "value": 777},
+        {"name": "alternative", "value": 224},
+        {"name": "brit-rock", "value": 802},
+        {"name": "garage", "value": 763},
+        {"name": "grunge", "value": 597},
+        {"name": "hard-rock", "value": 562},
+        {"name": "indie", "value": 93},
+        {"name": "punk", "value": 181},
+        {"name": "psych-rock", "value": 489},
+        {"name": "punk-rock", "value": 541},
+        {"name": "rock-n-roll", "value": 695},
+        {"name": "rock", "value": 116},
+        {"name": "rockabilly", "value": 467},
+        {"name": "grindcore", "value": 924},
+        {"name": "goth", "value": 807},
+        {"name": "hardcore", "value": 659},
+        {"name": "j-rock", "value": 420}
+      ]
+    },
+    {
+      "name": "Electronic & Dance",
+      "children": [
+        {"name": "ambient", "value": 896},
+        {"name": "chicago-house", "value": 916},
+        {"name": "club", "value": 871},
+        {"name": "dance", "value": 396},
+        {"name": "dancehall", "value": 778},
+        {"name": "deep-house", "value": 765},
+        {"name": "detroit-techno", "value": 861},
+        {"name": "disco", "value": 712},
+        {"name": "drum-and-bass", "value": 773},
+        {"name": "dub", "value": 727},
+        {"name": "dubstep", "value": 205},
+        {"name": "edm", "value": 416},
+        {"name": "electro", "value": 323},
+        {"name": "electronic", "value": 713},
+        {"name": "house", "value": 98},
+        {"name": "minimal-techno", "value": 723},
+        {"name": "progressive-house", "value": 528},
+        {"name": "techno", "value": 317},
+        {"name": "trance", "value": 574},
+        {"name": "idm", "value": 878},
+        {"name": "hardstyle", "value": 763},
+        {"name": "j-dance", "value": 636}
+      ]
+    },
+    {
+      "name": "Pop & R&B",
+      "children": [
+        {"name": "pop", "value": 235},
+        {"name": "pop-film", "value": 764},
+        {"name": "power-pop", "value": 751},
+        {"name": "r-n-b", "value": 401},
+        {"name": "synth-pop", "value": 605},
+        {"name": "trip-hop", "value": 733},
+        {"name": "k-pop", "value": 776},
+        {"name": "mandopop", "value": 792},
+        {"name": "cantopop", "value": 935},
+        {"name": "j-idol", "value": 893},
+        {"name": "j-pop", "value": 545},
+        {"name": "indie-pop", "value": 416},
+        {"name": "reggaeton", "value": 56}
+      ]
+    },
+    {
+      "name": "Hip-Hop & Rap",
+      "children": [
+        {"name": "hip-hop", "value": 607}
+      ]
+    },
+    {
+      "name": "Metal & Heavy",
+      "children": [
+        {"name": "black-metal", "value": 981},
+        {"name": "death-metal", "value": 825},
+        {"name": "heavy-metal", "value": 944},
+        {"name": "metal", "value": 174},
+        {"name": "metalcore", "value": 514}
+      ]
+    },
+    {
+      "name": "Folk & Country",
+      "children": [
+        {"name": "bluegrass", "value": 930},
+        {"name": "country", "value": 507},
+        {"name": "folk", "value": 674},
+        {"name": "honky-tonk", "value": 770},
+        {"name": "singer-songwriter", "value": 350}
+      ]
+    },
+    {
+      "name": "Jazz & Blues",
+      "children": [
+        {"name": "blues", "value": 650},
+        {"name": "jazz", "value": 166},
+        {"name": "afrobeat", "value": 945},
+        {"name": "funk", "value": 585},
+        {"name": "groove", "value": 527},
+        {"name": "reggae", "value": 142}
+      ]
+    },
+    {
+      "name": "Latin & World Music",
+      "children": [
+        {"name": "latino", "value": 307},
+        {"name": "latin", "value": 396},
+        {"name": "samba", "value": 555},
+        {"name": "tango", "value": 749},
+        {"name": "forro", "value": 925},
+        {"name": "world-music", "value": 762},
+        {"name": "salsa", "value": 848},
+        {"name": "pagode", "value": 776},
+        {"name": "sertanejo", "value": 762},
+        {"name": "mpb", "value": 717}
+      ]
+    },
+    {
+      "name": "Classical & Opera",
+      "children": [
+        {"name": "classical", "value": 745},
+        {"name": "opera", "value": 692}
+      ]
+    },
+    {
+      "name": "Mood/Emotion-based",
+      "children": [
+        {"name": "happy", "value": 882},
+        {"name": "chill", "value": 821},
+        {"name": "sad", "value": 430},
+        {"name": "romance", "value": 806}
+      ]
+    },
+    {
+      "name": "Cultural/Geographical",
+      "children": [
+        {"name": "brazil", "value": 908},
+        {"name": "indian", "value": 687},
+        {"name": "spanish", "value": 806},
+        {"name": "swedish", "value": 579},
+        {"name": "iranian", "value": 859},
+        {"name": "turkish", "value": 796},
+        {"name": "malay", "value": 921},
+        {"name": "french", "value": 755},
+        {"name": "german", "value": 584},
+        {"name": "british", "value": 802}
+      ]
+    },
+    {
+      "name": "Entertainment/Themes",
+      "children": [
+        {"name": "anime", "value": 925},
+        {"name": "disney", "value": 895},
+        {"name": "comedy", "value": 965},
+        {"name": "show-tunes", "value": 743}
+      ]
+    },
+    {
+      "name": "Instrumental/Style-specific",
+      "children": [
+        {"name": "acoustic", "value": 911},
+        {"name": "piano", "value": 535},
+        {"name": "new-age", "value": 798},
+        {"name": "guitar", "value": 771}
+      ]
+    },
+    {
+      "name": "Music for Specific Occasions",
+      "children": [
+        {"name": "party", "value": 628},
+        {"name": "study", "value": 902},
+        {"name": "sleep", "value": 891}
+      ]
+    },
+    {
+      "name": "Experimental/Unique",
+      "children": [
+        {"name": "breakbeat", "value": 914},
+        {"name": "industrial", "value": 691}
+      ]
+    },
+    {
+      "name": "Spiritual/Religious",
+      "children": [
+        {"name": "gospel", "value": 621}
+      ]
+    },
+    {
+      "name": "Specific Genres (Existing Genres)",
+      "children": [
+        {"name": "emo", "value": 776},
+        {"name": "ska", "value": 679},
+        {"name": "soul", "value": 193},
+        {"name": "children", "value": 774},
+        {"name": "kids", "value": 749}
+      ]
+    }
+  ]
+}
